@@ -1,0 +1,900 @@
+movieId,original_title,genres,production_countries,collection,release_year
+949,Heat,"['Action', 'Crime', 'Drama', 'Thriller']",['US'],,1995
+1408,Cutthroat Island,"['Action', 'Adventure']","['FR', 'DE', 'IT', 'US']",,1995
+524,Casino,"['Drama', 'Crime']","['FR', 'US']",,1995
+5,Four Rooms,"['Crime', 'Comedy']",['US'],,1995
+902,La Cité des Enfants Perdus,"['Fantasy', 'Science Fiction', 'Adventure']","['FR', 'DE', 'ES']",,1995
+2054,Mr. Holland's Opus,"['Music', 'Drama', 'Family']",['US'],,1995
+880,Antonia,"['Drama', 'Comedy']","['NL', 'GB', 'BE']",,1995
+1873,Beyond Rangoon,"['Drama', 'Thriller']",[],,1995
+281,Strange Days,"['Crime', 'Drama', 'Science Fiction', 'Thriller']",['US'],,1995
+3512,Under Siege 2: Dark Territory,"['Action', 'Thriller']",['US'],Under Siege Collection,1995
+76,Before Sunrise,"['Drama', 'Romance']","['AT', 'CH', 'US']",Before... Collection,1995
+1909,Don Juan DeMarco,"['Romance', 'Drama', 'Comedy']",['US'],,1994
+8984,Disclosure,"['Drama', 'Thriller', 'Crime', 'Mystery', 'Romance']",['US'],,1994
+628,Interview with the Vampire,"['Horror', 'Romance']",['US'],The Vampire Chronicles,1994
+11,Star Wars,"['Adventure', 'Action', 'Science Fiction']",['US'],Star Wars Collection,1977
+1945,Nell,"['Drama', 'Thriller']",['US'],,1994
+527,Once Were Warriors,['Drama'],['NZ'],Once were Warriors Collection,1994
+101,Léon,"['Thriller', 'Crime', 'Drama']","['FR', 'US']",,1994
+110,Trois couleurs : Rouge,"['Drama', 'Mystery', 'Romance']","['FR', 'PL', 'CH']",Three Colors Collection,1994
+193,Star Trek: Generations,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",['US'],Star Trek: The Next Generation Collection,1994
+1587,What's Eating Gilbert Grape,"['Romance', 'Drama']",['US'],,1993
+2064,While You Were Sleeping,"['Comedy', 'Drama', 'Romance']",['US'],,1995
+236,Muriel's Wedding,"['Drama', 'Comedy', 'Romance']","['AU', 'FR']",,1994
+2759,"The Adventures of Priscilla, Queen of the Desert","['Drama', 'Comedy']",['AU'],,1994
+1689,Little Buddha,"['Drama', 'History']","['FR', 'IT', 'LI', 'GB']",,1993
+2788,Reality Bites,['Drama'],['US'],,1994
+315,"Faster, Pussycat! Kill! Kill!","['Action', 'Crime']",['US'],,1965
+306,Beverly Hills Cop III,"['Action', 'Comedy', 'Crime']",['US'],Beverly Hills Cop Collection,1994
+2124,Color of Night,"['Drama', 'Mystery', 'Romance', 'Thriller']",['US'],,1994
+2087,The Getaway,"['Drama', 'Action', 'Thriller']","['JP', 'US']",,1994
+2019,Hard Target,"['Action', 'Adventure', 'Crime', 'Thriller']",['US'],Hard Target Collection,1993
+2259,The House of the Spirits,"['Romance', 'Drama']","['DK', 'FR', 'DE', 'PT', 'US']",,1993
+6,Judgment Night,"['Action', 'Thriller', 'Crime']","['JP', 'US']",,1993
+329,Jurassic Park,"['Adventure', 'Science Fiction']",['US'],Jurassic Park Collection,1993
+507,Killing Zoe,"['Action', 'Crime', 'Drama', 'Thriller']","['FR', 'US']",,1993
+788,Mrs. Doubtfire,"['Comedy', 'Drama', 'Family']",['US'],,1993
+1245,The Remains of the Day,"['Drama', 'Romance']","['GB', 'US']",,1993
+2088,Romeo Is Bleeding,"['Action', 'Crime', 'Drama', 'Thriller']","['GB', 'US']",,1993
+858,Sleepless in Seattle,"['Comedy', 'Drama', 'Romance']",['US'],,1993
+319,True Romance,"['Action', 'Thriller', 'Crime', 'Romance']",['US'],,1993
+280,Terminator 2: Judgment Day,"['Action', 'Thriller', 'Science Fiction']","['FR', 'US']",The Terminator Collection,1991
+581,Dances with Wolves,"['Adventure', 'Drama', 'Western']","['GB', 'US']",,1990
+2021,Jack & Sarah,"['Comedy', 'Drama', 'Romance']","['FR', 'GB']",,1995
+954,Mission: Impossible,"['Adventure', 'Action', 'Thriller']",['US'],Mission: Impossible Collection,1996
+2300,Space Jam,"['Animation', 'Comedy', 'Drama', 'Family', 'Fantasy']",['US'],,1996
+922,Dead Man,"['Drama', 'Fantasy', 'Western']","['DE', 'JP', 'US']",,1995
+532,A Close Shave,"['Family', 'Animation', 'Comedy']",['GB'],Wallace & Gromit Collection,1995
+1645,A Time to Kill,"['Crime', 'Drama', 'Thriller']",['US'],,1996
+549,Basquiat,"['Drama', 'History']",['US'],,1996
+164,Breakfast at Tiffany's,"['Comedy', 'Drama', 'Romance']",['US'],,1961
+426,Vertigo,"['Mystery', 'Romance', 'Thriller']",['US'],,1958
+239,Some Like It Hot,"['Comedy', 'Romance']",['US'],,1959
+289,Casablanca,"['Drama', 'Romance']",['US'],,1942
+6620,Sabrina,"['Comedy', 'Drama', 'Romance']",['US'],,1954
+804,Roman Holiday,"['Comedy', 'Romance']",['US'],,1953
+909,Meet Me in St. Louis,"['Comedy', 'Music', 'Romance']",['US'],,1944
+599,Sunset Boulevard,['Drama'],['US'],,1950
+15,Citizen Kane,"['Mystery', 'Drama']",['US'],,1941
+62,2001: A Space Odyssey,"['Science Fiction', 'Mystery', 'Adventure']","['US', 'GB']",The Space Odyssey Series,1968
+223,Rebecca,"['Drama', 'Mystery']",['US'],,1940
+303,Notorious,"['Thriller', 'Drama', 'Romance']",['US'],,1946
+381,To Catch a Thief,"['Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']",['US'],,1955
+1939,Laura,"['Drama', 'Mystery']",['US'],,1944
+198,To Be or Not to Be,"['Comedy', 'War']",['US'],,1942
+3083,Mr. Smith Goes to Washington,"['Comedy', 'Drama']",['US'],,1939
+900,Bringing Up Baby,"['Comedy', 'Romance']",['US'],,1938
+260,The 39 Steps,"['Action', 'Thriller', 'Mystery']",['GB'],,1935
+261,Cat on a Hot Tin Roof,"['Drama', 'Romance']",['US'],,1958
+2033,Infinity,"['Drama', 'Romance']",['US'],,1996
+173,"20,000 Leagues Under the Sea","['Adventure', 'Drama', 'Science Fiction']",['US'],,1954
+562,Die Hard,"['Action', 'Thriller']",['US'],Die Hard Collection,1988
+454,Romeo + Juliet,"['Drama', 'Romance']",['US'],,1996
+1834,"Murder, My Sweet","['Crime', 'Drama', 'Mystery', 'Thriller']",['US'],,1944
+252,Willy Wonka & the Chocolate Factory,"['Family', 'Fantasy']",['US'],,1971
+475,Bonnie and Clyde,"['Crime', 'Drama']",['US'],,1967
+88,Dirty Dancing,"['Drama', 'Music', 'Romance']",['US'],Dirty Dancing Collection,1987
+500,Reservoir Dogs,"['Crime', 'Thriller']",['US'],,1992
+1103,Escape from New York,"['Science Fiction', 'Action']",['US'],Escape From ... Collection,1981
+762,Monty Python and the Holy Grail,"['Adventure', 'Comedy', 'Fantasy']",['GB'],,1975
+531,The Wrong Trousers,"['Animation', 'Comedy', 'Family']",['GB'],Wallace & Gromit Collection,1993
+2469,¡Átame!,"['Comedy', 'Crime', 'Drama', 'Romance']",['ES'],,1989
+85,Raiders of the Lost Ark,"['Adventure', 'Action']",['US'],Indiana Jones Collection,1981
+947,Lawrence of Arabia,"['Adventure', 'Drama', 'History', 'War']",['GB'],,1962
+185,A Clockwork Orange,"['Science Fiction', 'Drama']","['GB', 'US']",,1971
+595,To Kill a Mockingbird,"['Crime', 'Drama']",['US'],,1962
+28,Apocalypse Now,"['Drama', 'War']",['US'],,1979
+1892,Return of the Jedi,"['Adventure', 'Action', 'Science Fiction']",['US'],Star Wars Collection,1983
+144,Der Himmel über Berlin,"['Drama', 'Fantasy', 'Romance']","['DE', 'FR']",,1987
+1092,The Third Man,"['Thriller', 'Mystery']",['GB'],,1949
+348,Alien,"['Horror', 'Action', 'Thriller', 'Science Fiction']","['US', 'GB']",Alien Collection,1979
+175,Le Grand Bleu,"['Adventure', 'Drama', 'Romance']","['FR', 'IT', 'US']",,1988
+539,Psycho,"['Drama', 'Horror', 'Thriller']",['US'],Psycho Collection,1960
+490,Det sjunde inseglet,"['Fantasy', 'Drama']",['SE'],,1957
+218,The Terminator,"['Action', 'Thriller', 'Science Fiction']","['GB', 'US']",The Terminator Collection,1984
+379,Miller's Crossing,"['Drama', 'Thriller', 'Crime']",['US'],,1990
+207,Dead Poets Society,['Drama'],['US'],,1989
+235,Stand by Me,"['Crime', 'Drama']",['US'],,1986
+832,M,"['Drama', 'Action', 'Thriller', 'Crime']",['DE'],,1931
+765,Evil Dead II,"['Horror', 'Comedy', 'Fantasy']",['US'],Evil Dead Collection,1987
+105,Back to the Future,"['Adventure', 'Comedy', 'Science Fiction', 'Family']",['US'],Back to the Future Collection,1985
+903,Cool Hand Luke,"['Crime', 'Drama']",['US'],,1967
+3034,Young Frankenstein,"['Comedy', 'Science Fiction']",['US'],,1974
+339,Night on Earth,"['Comedy', 'Drama']","['DE', 'FI', 'FR', 'GB', 'US']",,1991
+914,The Great Dictator,['Comedy'],['US'],,1940
+288,High Noon,['Western'],['US'],,1952
+910,The Big Sleep,"['Crime', 'Drama', 'Mystery', 'Thriller']",['US'],,1946
+2640,Heathers,"['Thriller', 'Comedy', 'Drama']",['US'],,1988
+89,Indiana Jones and the Last Crusade,"['Adventure', 'Action']",['US'],Indiana Jones Collection,1989
+783,Gandhi,"['Drama', 'History']","['IN', 'GB']",,1982
+830,Forbidden Planet,"['Adventure', 'Science Fiction', 'Action']",['US'],,1956
+229,Bride of Frankenstein,"['Horror', 'Science Fiction']",['US'],Frankenstein (Universal Series),1935
+377,A Nightmare on Elm Street,['Horror'],['US'],A Nightmare on Elm Street Collection,1984
+653,"Nosferatu, eine Symphonie des Grauens","['Fantasy', 'Horror']",['DE'],,1922
+145,Breaking the Waves,"['Drama', 'Romance']","['DK', 'FR', 'IS', 'NL', 'NO', 'SE']",Heart of Gold Collection,1996
+1573,Die Hard 2,"['Action', 'Thriller']",['US'],Die Hard Collection,1990
+172,Star Trek V: The Final Frontier,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",['US'],Star Trek: The Original Series Collection,1989
+154,Star Trek II: The Wrath of Khan,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",['US'],Star Trek: The Original Series Collection,1982
+168,Star Trek IV: The Voyage Home,"['Science Fiction', 'Adventure']",['US'],Star Trek: The Original Series Collection,1986
+364,Batman Returns,"['Action', 'Fantasy']","['GB', 'US']",Batman Collection,1992
+378,Raising Arizona,"['Comedy', 'Crime']",['US'],,1987
+3179,Beavis and Butt-Head Do America,"['Animation', 'Comedy']",['US'],,1996
+4232,Scream,"['Crime', 'Horror', 'Mystery']",['US'],Scream Collection,1996
+8860,Metro,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",['US'],,1997
+784,Kolja,"['Music', 'Drama', 'Comedy']","['FR', 'CZ', 'GB']",,1996
+1968,Fools Rush In,"['Drama', 'Comedy', 'Romance']",['US'],,1997
+18,The Fifth Element,"['Adventure', 'Fantasy', 'Action', 'Thriller', 'Science Fiction']",['FR'],,1997
+2058,Addicted to Love,"['Comedy', 'Romance']",['US'],,1997
+33660,Shiloh,"['Drama', 'Family']",['US'],Shiloh Collection,1996
+1701,Con Air,"['Action', 'Thriller', 'Crime']",['US'],,1997
+1639,Speed 2: Cruise Control,"['Action', 'Adventure', 'Thriller']",['US'],Speed Collection,1997
+415,Batman & Robin,"['Action', 'Crime', 'Fantasy']","['GB', 'US']",Batman Collection,1997
+8874,My Best Friend's Wedding,"['Comedy', 'Romance']",['US'],,1997
+266,Le Mépris,['Drama'],"['FR', 'IT']",,1963
+2142,Cop Land,"['Action', 'Crime', 'Drama']",['US'],,1997
+468,My Own Private Idaho,"['Drama', 'Romance']",['US'],,1991
+2118,L.A. Confidential,"['Crime', 'Drama', 'Mystery', 'Thriller']",['US'],,1997
+1959,Swept from the Sea,"['Drama', 'Romance']",['GB'],,1998
+1281,Bean,['Comedy'],"['GB', 'US']",Mr. Bean Collection,1997
+4995,Boogie Nights,['Drama'],['US'],,1997
+489,Good Will Hunting,['Drama'],"['CA', 'US']",,1997
+6283,MouseHunt,"['Comedy', 'Family']",['US'],,1997
+597,Titanic,"['Drama', 'Romance', 'Thriller']",['US'],,1997
+714,Tomorrow Never Dies,"['Adventure', 'Action', 'Thriller']","['GB', 'US']",James Bond Collection,1997
+586,Wag the Dog,"['Comedy', 'Drama']",['US'],,1997
+267,Carne trémula,"['Drama', 'Romance', 'Thriller']","['FR', 'ES']",,1997
+1965,A Perfect Murder,"['Crime', 'Thriller', 'Drama']",['US'],,1998
+1389,Out of Sight,"['Romance', 'Comedy', 'Crime']",['US'],,1998
+95,Armageddon,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",['US'],,1998
+1366,Rocky,['Drama'],['US'],Rocky Collection,1976
+380,Rain Man,['Drama'],['US'],,1988
+466,Klute,['Mystery'],['US'],,1971
+2108,The Breakfast Club,"['Comedy', 'Drama']",['US'],,1985
+948,Halloween,"['Horror', 'Thriller']",['US'],Halloween Collection,1978
+609,Poltergeist,['Horror'],['US'],Poltergeist Collection,1982
+942,Lethal Weapon 2,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",['US'],Lethal Weapon Collection,1989
+943,Lethal Weapon 3,"['Adventure', 'Action', 'Comedy', 'Thriller', 'Crime']",['US'],Lethal Weapon Collection,1992
+928,Gremlins 2: The New Batch,"['Comedy', 'Horror', 'Fantasy']",['US'],The Gremlins Collection,1990
+19,Metropolis,"['Drama', 'Science Fiction']",['DE'],,1927
+165,Back to the Future Part II,"['Adventure', 'Comedy', 'Family', 'Science Fiction']",['US'],Back to the Future Collection,1989
+196,Back to the Future Part III,"['Adventure', 'Comedy', 'Family', 'Science Fiction']",['US'],Back to the Future Collection,1990
+551,The Poseidon Adventure,"['Action', 'Adventure']",['US'],The Poseidon Adventure Collection,1972
+1411,The Rapture,"['Mystery', 'Drama']",['US'],,1991
+1779,Roger & Me,"['Documentary', 'History']",['US'],,1989
+678,Out of the Past,"['Drama', 'Mystery', 'Thriller']",['US'],,1947
+907,Doctor Zhivago,"['Drama', 'Romance', 'War']","['IT', 'US']",,1965
+227,The Outsiders,"['Crime', 'Drama']",['US'],,1983
+805,Rosemary's Baby,"['Horror', 'Drama', 'Mystery']",['US'],Rosemary's Baby Collection,1968
+4011,Beetlejuice,"['Fantasy', 'Comedy']",['US'],,1988
+1580,Rope,"['Crime', 'Drama', 'Mystery', 'Thriller']",['US'],,1948
+940,The Lady Vanishes,"['Mystery', 'Thriller']",['GB'],,1938
+2762,Young and Innocent,"['Drama', 'Crime']",['GB'],,1937
+2761,Secret Agent,['Thriller'],['GB'],,1936
+543,Blackmail,"['Drama', 'Thriller', 'Crime']",['GB'],,1929
+431,Cube,"['Thriller', 'Science Fiction', 'Mystery']",['CA'],Cube Collection,1997
+2321,Married to the Mob,"['Comedy', 'Crime', 'Romance']",['US'],,1988
+2028,Say Anything...,"['Comedy', 'Drama', 'Romance']",['US'],,1989
+5971,We're No Angels,"['Comedy', 'Crime', 'Drama']",['US'],,1989
+2109,Rush Hour,"['Action', 'Comedy', 'Crime', 'Thriller']",['US'],Rush Hour Collection,1998
+1091,The Thing,"['Horror', 'Mystery', 'Science Fiction']",['US'],The Thing Collection,1982
+162,Edward Scissorhands,"['Fantasy', 'Drama', 'Romance']",['US'],,1990
+4975,Love Is the Devil: Study for a Portrait of Francis Bacon,"['TV Movie', 'Drama']",['GB'],,1998
+1955,The Elephant Man,"['Drama', 'History']","['GB', 'US']",,1980
+2657,Pleasantville,"['Fantasy', 'Drama', 'Comedy']",['US'],,1998
+637,La vita è bella,"['Comedy', 'Drama']",['IT'],,1997
+73,American History X,['Drama'],['US'],,1998
+3033,Gods and Monsters,['Drama'],"['GB', 'US']",,1998
+1678,ゴジラ,"['Thriller', 'Horror', 'Science Fiction']",['JP'],Godzilla (Showa) Collection,1954
+1680,Kingu Kongu tai Gojira,"['Action', 'Adventure', 'Science Fiction']",['JP'],Godzilla (Showa) Collection,1962
+707,A View to a Kill,"['Adventure', 'Action', 'Thriller']","['FR', 'IS', 'GB', 'US']",James Bond Collection,1985
+1370,Rambo III,"['Action', 'Adventure', 'Thriller', 'War']",['US'],Rambo Collection,1988
+1367,Rocky II,['Drama'],['US'],Rocky Collection,1979
+1371,Rocky III,['Drama'],['US'],Rocky Collection,1982
+1374,Rocky IV,['Drama'],['US'],Rocky Collection,1985
+1375,Rocky V,['Drama'],['US'],Rocky Collection,1990
+1885,The Karate Kid,['Drama'],['US'],The Karate Kid Collection,1984
+2112,Payback,"['Drama', 'Action', 'Thriller', 'Crime']",['US'],,1999
+1688,Conquest of the Planet of the Apes,"['Action', 'Science Fiction']",['US'],Planet of the Apes Original Collection,1972
+1687,Escape from the Planet of the Apes,"['Action', 'Science Fiction']",['US'],Planet of the Apes Original Collection,1971
+100,"Lock, Stock and Two Smoking Barrels","['Comedy', 'Crime']",['GB'],,1998
+1641,Forces of Nature,"['Romance', 'Comedy']",['US'],,1999
+8970,The Out-of-Towners,['Comedy'],['US'],,1999
+1946,eXistenZ,"['Action', 'Thriller', 'Science Fiction', 'Horror']","['CA', 'FR', 'GB']",,1999
+30793,House of Dracula,"['Horror', 'Science Fiction']",['US'],Dracula (Universal Series),1945
+3035,Frankenstein,"['Drama', 'Horror', 'Science Fiction']",['US'],Frankenstein (Universal Series),1931
+509,Notting Hill,"['Romance', 'Comedy', 'Drama']","['GB', 'US']",,1999
+1090,The Thirteenth Floor,"['Thriller', 'Science Fiction', 'Mystery']",['US'],,1999
+104,Lola rennt,"['Action', 'Drama', 'Thriller']",['DE'],,1998
+2105,American Pie,"['Comedy', 'Romance']",['US'],American Pie Collection,1999
+1073,Arlington Road,"['Drama', 'Thriller', 'Mystery']",['US'],,1999
+345,Eyes Wide Shut,"['Mystery', 'Drama']","['GB', 'US']",,1999
+8914,Deep Blue Sea,"['Action', 'Science Fiction', 'Thriller']","['AU', 'US']",,1999
+247,The Killing,"['Drama', 'Action', 'Thriller', 'Crime']",['US'],,1956
+802,Lolita,"['Drama', 'Romance']","['GB', 'US']",,1962
+3175,Barry Lyndon,"['Drama', 'Romance', 'War']","['GB', 'US']",,1975
+147,Les Quatre Cents Coups,['Drama'],['FR'],The Adventures of Antoine Doinel,1959
+2115,Light of Day,"['Music', 'Drama']",['US'],,1987
+3526,Frances,['Drama'],['US'],,1982
+745,The Sixth Sense,"['Mystery', 'Thriller', 'Drama']",['US'],,1999
+913,The Thomas Crown Affair,"['Drama', 'Crime', 'Romance']",['US'],,1999
+912,The Thomas Crown Affair,"['Romance', 'Crime', 'Thriller', 'Drama']",['US'],,1968
+1911,The 13th Warrior,"['Adventure', 'Fantasy', 'Action']",['US'],,1999
+6373,"Martha – Meet Frank, Daniel and Laurence","['Comedy', 'Romance']",['GB'],,1998
+14,American Beauty,['Drama'],['US'],,1999
+1049,Sommersby,"['Drama', 'Thriller', 'Mystery', 'Romance']","['FR', 'US']",,1993
+861,Total Recall,"['Action', 'Adventure', 'Science Fiction']",['US'],,1990
+535,Flashdance,"['Drama', 'Music', 'Romance']",['US'],,1983
+2731,Indochine,"['Drama', 'Romance']",['FR'],,1992
+550,Fight Club,['Drama'],"['DE', 'US']",,1999
+1610,Fever Pitch,"['Comedy', 'Romance']",['GB'],,1997
+709,Licence to Kill,"['Adventure', 'Action', 'Thriller']","['GB', 'US']",James Bond Collection,1989
+253,Live and Let Die,"['Adventure', 'Action', 'Thriller']",['GB'],James Bond Collection,1973
+492,Being John Malkovich,"['Fantasy', 'Drama', 'Comedy']",['US'],,1999
+2020,The Bachelor,['Comedy'],['US'],,1999
+1694,Re-Animator,"['Science Fiction', 'Comedy', 'Horror']",['US'],Re-Animator Collection,1985
+2690,Irma la Douce,"['Comedy', 'Romance']",['US'],,1963
+596,The Grapes of Wrath,['Drama'],['US'],,1940
+293,A River Runs Through It,['Drama'],['US'],,1992
+177,The Fisher King,"['Comedy', 'Drama']",['US'],,1991
+497,The Green Mile,"['Fantasy', 'Drama', 'Crime']",['US'],,1999
+334,Magnolia,['Drama'],['US'],,1999
+926,Galaxy Quest,"['Comedy', 'Family', 'Science Fiction']",['US'],,1999
+1213,The Talented Mr. Ripley,"['Thriller', 'Crime', 'Drama']",['US'],,1999
+2990,Pacific Heights,"['Crime', 'Thriller']",['US'],,1990
+1883,Malcolm X,"['Drama', 'History']",['US'],,1992
+2005,Sister Act,"['Music', 'Comedy']",['US'],Sister Act Collection,1992
+8873,Wayne's World 2,"['Music', 'Comedy']",['US'],Wayne's World Collection,1993
+1923,Twin Peaks: Fire Walk with Me,"['Drama', 'Mystery']",['US'],,1992
+1907,The Beach,"['Drama', 'Adventure', 'Romance', 'Thriller']","['GB', 'US']",,2000
+901,City Lights,"['Comedy', 'Drama', 'Romance']",['US'],,1931
+1831,The Next Best Thing,['Comedy'],['US'],,2000
+4816,Ghost Dog: The Way of the Samurai,"['Crime', 'Drama']",['US'],,1999
+2193,My Tutor,"['Comedy', 'Drama', 'Romance']",['US'],,1983
+2067,Mission to Mars,['Science Fiction'],['US'],,2000
+5693,Hoosiers,"['Drama', 'Family']",['US'],,1986
+968,Dog Day Afternoon,"['Crime', 'Drama', 'Thriller']",['US'],,1975
+838,American Graffiti,"['Comedy', 'Drama']",['US'],American Graffiti Collection,1973
+3114,The Searchers,['Western'],['US'],,1956
+32031,Let's Get Harry,"['Action', 'Adventure']",['US'],,1986
+918,Blind Date,"['Comedy', 'Romance']",['US'],,1987
+2383,L'Ours,"['Adventure', 'Drama', 'Family']","['FR', 'US']",,1988
+1396,Зеркало,"['Drama', 'History']",['RU'],,1975
+1541,Thelma & Louise,"['Drama', 'Thriller', 'Crime', 'Adventure']",['US'],,1991
+1713,Jungle Fever,"['Drama', 'Romance']",['US'],,1991
+1499,Teenage Mutant Ninja Turtles III,"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Science Fiction']","['HK', 'US']",Teenage Mutant Ninja Turtles (Original) Collection,1993
+801,"Good Morning, Vietnam","['Comedy', 'Drama', 'War']",['US'],,1987
+2085,Romeo Must Die,"['Action', 'Crime', 'Thriller']",['US'],,2000
+3082,Modern Times,"['Drama', 'Comedy']",['US'],,1936
+2291,Jacob's Ladder,"['Drama', 'Mystery', 'Horror']",['US'],,1990
+593,Солярис,"['Drama', 'Science Fiction', 'Adventure', 'Mystery']",['RU'],,1972
+2006,"Bell, Book and Candle","['Fantasy', 'Comedy', 'Romance']",['US'],,1958
+1552,Parenthood,"['Comedy', 'Drama', 'Family']",['US'],,1989
+1359,American Psycho,"['Thriller', 'Drama', 'Crime']","['CA', 'US']",American Psycho Collection,2000
+3536,U-571,"['Action', 'Drama', 'Thriller', 'War']","['FR', 'US']",,2000
+2094,Roustabout,"['Drama', 'Music', 'Romance']",['US'],,1964
+955,Mission: Impossible II,"['Adventure', 'Action', 'Thriller']","['DE', 'US']",Mission: Impossible Collection,2000
+21,The Endless Summer,['Documentary'],['US'],The Endless Summer Collection,1966
+6003,Romeo and Juliet,"['Drama', 'Romance']","['IT', 'GB']",,1968
+541,The Man with the Golden Arm,"['Crime', 'Drama', 'Romance']",['US'],,1955
+938,Per qualche dollaro in più,['Western'],"['IT', 'ES', 'DE']",The Man With No Name Collection,1965
+8810,Mad Max 2,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",['AU'],Mad Max Collection,1981
+592,The Conversation,"['Crime', 'Drama', 'Mystery']",['US'],,1974
+195,Trouble in Paradise,"['Comedy', 'Romance']",['US'],,1932
+2133,The Perfect Storm,['Drama'],['US'],,2000
+494,Shaft in Africa,"['Adventure', 'Action', 'Thriller', 'Crime', 'Mystery']",['US'],Shaft Collection,1973
+493,Shaft's Big Score!,"['Action', 'Adventure', 'Crime', 'Mystery']",['US'],Shaft Collection,1972
+93,Anatomy of a Murder,"['Crime', 'Drama', 'Mystery', 'Thriller']",['US'],,1959
+2360,Saving Grace,"['Crime', 'Comedy']","['FR', 'GB']",,2000
+1588,Bring It On,['Comedy'],['US'],Bring It On Collection,2000
+1619,The Way of the Gun,"['Action', 'Crime', 'Drama', 'Thriller']",['US'],,2000
+786,Almost Famous,"['Drama', 'Music']",['US'],,2000
+16,Dancer in the Dark,"['Drama', 'Crime', 'Music']","['AR', 'DK', 'FI', 'FR', 'DE', 'IS', 'IT', 'NL', 'NO', 'SE', 'GB', 'US']",Heart of Gold Collection,2000
+2160,Voyage to the Bottom of the Sea,"['Adventure', 'Drama', 'Science Fiction']",['US'],,1961
+2161,Fantastic Voyage,"['Adventure', 'Science Fiction']",['US'],,1966
+911,The Bank Dick,['Comedy'],['US'],,1940
+1485,Get Carter,"['Crime', 'Thriller']",['GB'],,1971
+1597,Meet the Parents,"['Comedy', 'Romance']",['US'],Meet the Parents Collection,2000
+2134,The Time Machine,"['Thriller', 'Adventure', 'Fantasy', 'Science Fiction', 'Romance']",['US'],,1960
+4327,Charlie's Angels,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",['US'],Charlie's Angels Collection,2000
+4958,The Legend of Bagger Vance,"['Fantasy', 'Drama']",['US'],,2000
+708,The Living Daylights,"['Action', 'Adventure', 'Thriller']","['GB', 'US']",James Bond Collection,1987
+107,Snatch,"['Thriller', 'Crime']","['GB', 'US']",,2000
+3981,What Women Want,"['Comedy', 'Romance']",['US'],,2000
+2046,The Gift,"['Horror', 'Drama', 'Thriller', 'Mystery']",['US'],,2000
+2018,The Wedding Planner,['Comedy'],['US'],,2001
+4639,Best Seller,"['Action', 'Crime', 'Drama', 'Thriller']",['US'],,1987
+318,The Million Dollar Hotel,"['Drama', 'Thriller']","['US', 'DE']",,2000
+1921,Sweet November,"['Drama', 'Romance']",['US'],,2001
+2302,Avalon,['Drama'],['US'],,1990
+1888,The Fortune Cookie,"['Romance', 'Comedy']",['US'],,1966
+2428,The Greatest Story Ever Told,"['Drama', 'History']",['US'],,1965
+111,Scarface,"['Action', 'Crime', 'Drama', 'Thriller']",['US'],,1983
+2144,One Night at McCool's,"['Action', 'Comedy', 'Crime']",['US'],,2001
+1734,The Mummy Returns,"['Adventure', 'Action', 'Fantasy']",['US'],The Mummy Collection,2001
+4973,Sous le Sable,"['Drama', 'Mystery']",['FR'],,2000
+849,Krull,"['Fantasy', 'Action', 'Adventure']","['ES', 'GB', 'IT', 'US']",,1983
+934,Du rififi chez les hommes,"['Drama', 'Action', 'Crime']",['FR'],,1955
+1089,Point Break,"['Action', 'Thriller', 'Crime']",['US'],,1991
+2140,Kiss of the Dragon,"['Action', 'Crime', 'Thriller']","['FR', 'US']",,2001
+3134,Baise-moi,"['Crime', 'Drama', 'Romance', 'Thriller']",['FR'],,2000
+5991,Der letzte Mann,['Drama'],['DE'],,1924
+2114,Final Fantasy: The Spirits Within,"['Adventure', 'Action', 'Animation', 'Fantasy', 'Science Fiction', 'Thriller']","['JP', 'US']",Final Fantasy Collection,2001
+2,Ariel,"['Drama', 'Crime']",['FI'],,1988
+3980,Critters,"['Action', 'Comedy', 'Horror', 'Science Fiction', 'Thriller']",['US'],Critters Collection,1986
+2617,The Great Outdoors,['Comedy'],['US'],,1988
+3543,Out of Rosenheim,"['Comedy', 'Drama']","['DE', 'US']",,1987
+2605,Short Circuit,"['Comedy', 'Family', 'Science Fiction']",['US'],Short Circuit Collection,1986
+4105,Black Rain,"['Action', 'Thriller', 'Crime']",['US'],,1989
+1380,Gleaming the Cube,['Drama'],['US'],,1989
+327,Brother,"['Crime', 'Drama', 'Thriller']","['GB', 'JP', 'US']",,2000
+552,Pane e Tulipani,"['Drama', 'Comedy', 'Romance']",['IT'],,2000
+2616,Uncle Buck,"['Comedy', 'Drama', 'Family']",['US'],,1989
+249,The War of the Roses,"['Comedy', 'Drama', 'Thriller']",['US'],,1989
+1627,L'Enfant sauvage,['Drama'],['FR'],,1970
+2770,American Pie 2,"['Comedy', 'Romance']",['US'],American Pie Collection,2001
+1722,Captain Corelli's Mandolin,"['Drama', 'History', 'Romance']","['GB', 'US', 'FR']",,2001
+2779,The Curse of the Jade Scorpion,"['Comedy', 'Crime', 'Mystery', 'Romance', 'Thriller']","['DE', 'US']",,2001
+2294,Jay and Silent Bob Strike Back,['Comedy'],['US'],,2001
+2176,The Glass House,"['Drama', 'Thriller']",['US'],,2001
+248,Pocketful of Miracles,"['Comedy', 'Drama']",['US'],,1961
+1644,The Vanishing,"['Thriller', 'Drama', 'Mystery']",['US'],,1993
+2100,The Last Castle,"['Action', 'Drama', 'Thriller']",['US'],,2001
+3173,เพชฌฆาตเงียบอันตราย,"['Thriller', 'Action', 'Crime', 'Drama']",['TH'],,1999
+141,Donnie Darko,"['Fantasy', 'Drama', 'Mystery']",['US'],Darko Collection,2001
+585,"Monsters, Inc.","['Animation', 'Comedy', 'Family']",['US'],"Monsters, Inc. Collection",2001
+671,Harry Potter and the Philosopher's Stone,"['Adventure', 'Fantasy', 'Family']","['GB', 'US']",Harry Potter Collection,2001
+299,Ocean's Eleven,"['Thriller', 'Music', 'Comedy', 'Crime']",['US'],,1960
+161,Ocean's Eleven,"['Thriller', 'Crime']",['US'],Ocean's Collection,2001
+4886,And Then There Were None,"['Crime', 'Drama', 'Mystery']",['US'],,1945
+194,Le fabuleux destin d'Amélie Poulain,"['Comedy', 'Romance']","['FR', 'DE']",,2001
+6440,The Shipping News,"['Drama', 'Romance']",['US'],,2001
+848,Dragonslayer,['Fantasy'],['GB'],,1981
+150,48 Hrs.,"['Thriller', 'Action', 'Comedy', 'Crime', 'Drama']",['US'],48 Hrs. Collection,1982
+112,Italiensk for begyndere,"['Comedy', 'Drama', 'Romance']","['DK', 'SE']",,2000
+931,Don't Look Now,"['Thriller', 'Drama', 'Horror']","['IT', 'GB']",,1973
+480,Monsoon Wedding,"['Comedy', 'Drama', 'Romance']",['IN'],,2001
+2135,The Time Machine,"['Science Fiction', 'Adventure', 'Action']",['US'],,2002
+965,The Magnificent Ambersons,"['Romance', 'Drama']",['US'],,1942
+3418,La Mort en direct,"['Drama', 'Science Fiction']","['DE', 'FR']",,1980
+4499,"Pepi, Luci, Bom y otras chicas del montón",['Comedy'],['ES'],,1980
+1391,Y tu mamá también,"['Drama', 'Romance']",['MX'],,2001
+2371,Тегеран-43,"['Action', 'Drama', 'Thriller']","['CH', 'ES', 'FR', 'RU']",,1980
+1537,Changing Lanes,"['Action', 'Adventure', 'Crime', 'Thriller']",['US'],,2002
+441,Human Nature,"['Drama', 'Comedy']",['US'],,2001
+2565,Joe Versus the Volcano,"['Fantasy', 'Comedy', 'Science Fiction', 'Romance']",['US'],,1990
+307,Roma città aperta,"['Drama', 'History']",['IT'],War Trilogy,1945
+1282,Dogtown and Z-Boys,['Documentary'],['US'],,2001
+45186,Big Bad Mama,"['Action', 'Comedy', 'Crime', 'Drama']",['US'],,1974
+1894,Star Wars: Episode II - Attack of the Clones,"['Adventure', 'Action', 'Science Fiction']",['US'],Star Wars Collection,2002
+1957,Enough,"['Drama', 'Thriller']",['US'],,2002
+2501,The Bourne Identity,"['Action', 'Drama', 'Mystery', 'Thriller']","['US', 'DE', 'CZ']",The Bourne Collection,2002
+4993,5 Card Stud,"['Action', 'Western', 'Thriller']",['US'],,1968
+180,Minority Report,"['Action', 'Thriller', 'Science Fiction', 'Mystery']",['US'],,2002
+2022,Mr. Deeds,"['Comedy', 'Romance']",['US'],,2002
+608,Men in Black II,"['Action', 'Adventure', 'Comedy', 'Science Fiction']",['US'],Men In Black Collection,2002
+59387,The Powerpuff Girls Movie,"['Animation', 'Action', 'Family']",['US'],,2002
+8665,K-19: The Widowmaker,"['Drama', 'History', 'Thriller']","['CA', 'DE', 'GB', 'US']",,2002
+818,Austin Powers in Goldmember,"['Comedy', 'Crime', 'Science Fiction']",['US'],Austin Powers Collection,2002
+7451,xXx,"['Action', 'Adventure', 'Thriller']",['US'],xXx Collection,2002
+2750,24 Hour Party People,"['Comedy', 'Drama']",['GB'],,2002
+233,The Wanderers,['Drama'],['US'],,1979
+575,Das Experiment,"['Drama', 'Thriller']",['DE'],,2001
+1958,8 femmes,"['Comedy', 'Thriller', 'Music', 'Crime', 'Mystery']","['FR', 'IT']",,2002
+2110,Wasabi,"['Drama', 'Action', 'Comedy']","['JP', 'FR']",,2001
+1682,Mosura tai Gojira,"['Fantasy', 'Science Fiction', 'Action', 'Adventure']",['JP'],Godzilla (Showa) Collection,1964
+40815,Le Bossu,"['Drama', 'Adventure']","['IT', 'FR']",,1997
+225,Czlowiek z zelaza,"['Drama', 'History']",['PL'],Man of Marble/Iron Collection,1981
+265,Lili Marleen,"['War', 'Drama', 'Romance']",['DE'],,1981
+1672,Le Professionnel,"['Action', 'Adventure', 'Thriller']",['FR'],,1981
+65,8 Mile,['Drama'],['US'],,2002
+542,El Crimen del Padre Amaro,"['Drama', 'Romance']",['MX'],,2002
+53000,Soul Assassin,"['Action', 'Mystery', 'Thriller']",['NL'],,2001
+1377,Houseboat,"['Comedy', 'Drama', 'Family', 'Romance']",['US'],,1958
+2528,Madame Bovary,"['Drama', 'Foreign', 'Romance']",['FR'],,1991
+1429,25th Hour,"['Crime', 'Drama']",['US'],,2002
+2642,Two Weeks Notice,"['Comedy', 'Romance']","['AU', 'US']",,2002
+640,Catch Me If You Can,"['Drama', 'Crime']",['US'],,2002
+590,The Hours,['Drama'],['US'],,2002
+423,The Pianist,"['Drama', 'War']","['FR', 'DE', 'PL', 'GB']",,2002
+262,The King of Comedy,"['Comedy', 'Drama']",['US'],,1982
+2262,Die Sehnsucht der Veronika Voss,"['Crime', 'Drama']",['DE'],The BRD Collection,1982
+1956,Gerry,"['Mystery', 'Drama', 'Adventure']","['US', 'AR']",,2002
+991,The Man Who Fell to Earth,"['Drama', 'Science Fiction']",['GB'],,1976
+102,Elsker dig for evigt,"['Drama', 'Romance']",['DK'],,2002
+1591,Nirgendwo in Afrika,['Drama'],['DE'],,2001
+455,Bend It Like Beckham,"['Comedy', 'Drama', 'Romance']","['IN', 'DE', 'GB', 'US']",,2002
+2671,リング,"['Horror', 'Thriller']",['JP'],Ringu Collection,1998
+6016,The Good Thief,"['Crime', 'Drama', 'Thriller']","['CA', 'FR', 'IE', 'GB']",,2003
+2662,House of 1000 Corpses,['Horror'],['US'],House of 1000 Corpses Collection,2003
+994,Straw Dogs,"['Crime', 'Drama', 'Thriller', 'Mystery']","['GB', 'US']",,1971
+5146,The In-Laws,"['Action', 'Comedy']","['DE', 'US']",,2003
+12,Finding Nemo,"['Animation', 'Family']",['US'],Finding Nemo Collection,2003
+1088,Whale Rider,"['Drama', 'Family']",['NZ'],,2003
+290,Barton Fink,"['Comedy', 'Drama']","['GB', 'US']",,1991
+2470,Belle Époque,"['Comedy', 'Drama', 'Romance']","['ES', 'PT', 'FR']",,1992
+2527,Que la bête meure,"['Drama', 'Thriller']","['IT', 'FR']",,1969
+170,28 Days Later,"['Horror', 'Thriller', 'Science Fiction']",['GB'],28 Days/Weeks Later Collection,2002
+216,Angst essen Seele auf,"['Romance', 'Drama']",['DE'],,1974
+1927,Hulk,"['Drama', 'Action', 'Science Fiction']",['US'],,2003
+296,Terminator 3: Rise of the Machines,"['Action', 'Thriller', 'Science Fiction']","['DE', 'GB', 'US']",The Terminator Collection,2003
+22,Pirates of the Caribbean: The Curse of the Black Pearl,"['Adventure', 'Fantasy', 'Action']",['US'],Pirates of the Caribbean Collection,2003
+8961,Bad Boys II,"['Adventure', 'Action', 'Comedy', 'Thriller', 'Crime']",['US'],Bad Boys Collection,2003
+3101,I Love You to Death,"['Action', 'Comedy', 'Crime']",['US'],,1990
+936,The Pink Panther,"['Comedy', 'Crime']",['US'],The Pink Panther (Original) Collection,1963
+333,Bollywood/Hollywood,"['Comedy', 'Drama', 'Music', 'Romance']",['CA'],,2002
+2722,El otro lado de la cama,"['Romance', 'Drama']",['ES'],Sides of the Bed,2002
+153,Lost in Translation,['Drama'],"['JP', 'US']",,2003
+2687,Memoirs of an Invisible Man,"['Comedy', 'Fantasy', 'Science Fiction']","['FR', 'US']",,1992
+277,Underworld,"['Fantasy', 'Action', 'Thriller']","['DE', 'HU', 'GB', 'US']",Underworld Collection,2003
+20,My Life Without Me,"['Drama', 'Romance']","['CA', 'ES']",,2003
+837,Videodrome,"['Horror', 'Mystery', 'Science Fiction']",['CA'],,1983
+1358,A Brief History of Time,['Documentary'],['GB'],,1991
+3087,Yankee Doodle Dandy,"['Drama', 'Music']",['US'],,1942
+2116,Out of Time,"['Thriller', 'Crime', 'Drama']",['US'],,2003
+1584,School of Rock,"['Comedy', 'Music']","['DE', 'US']",,2003
+322,Mystic River,"['Thriller', 'Crime', 'Drama', 'Mystery']",['US'],,2003
+24,Kill Bill: Vol. 1,"['Action', 'Crime']",['US'],Kill Bill Collection,2003
+1376,Sweet Sixteen,"['Crime', 'Drama']",['GB'],,2002
+2348,Holy Matrimony,['Comedy'],['US'],,1994
+224,Człowiek z marmuru,"['Drama', 'History']",['PL'],Man of Marble/Iron Collection,1977
+605,The Matrix Revolutions,"['Adventure', 'Action', 'Thriller', 'Science Fiction']","['US', 'AU']",The Matrix Collection,2003
+1277,Ein Lied von Liebe und Tod – Gloomy Sunday,"['Romance', 'Drama']","['DE', 'HU']",,1999
+508,Love Actually,"['Comedy', 'Romance', 'Drama']","['GB', 'US']",,2003
+1702,Death Machine,"['Action', 'Horror', 'Science Fiction', 'Thriller']",['GB'],,1994
+4823,Final Analysis,"['Drama', 'Thriller', 'Romance']",['US'],,1992
+780,La passion de Jeanne d'Arc,"['Drama', 'History']",['FR'],,1928
+234,Das Cabinet des Dr. Caligari,"['Drama', 'Horror', 'Thriller', 'Crime']",['DE'],,1920
+899,Broken Blossoms,"['Drama', 'Romance']",['US'],,1919
+2297,Kafka,"['Comedy', 'Drama', 'Mystery']","['FR', 'US']",,1991
+951,Kindergarten Cop,['Comedy'],['US'],Kindergarten Cop Collection,1990
+3176,バトル・ロワイアル,"['Drama', 'Thriller', 'Adventure']",['JP'],Battle Royale Collection,2000
+3681,What's New Pussycat?,"['Comedy', 'Romance']","['FR', 'US']",,1965
+898,Birdman of Alcatraz,['Drama'],['US'],,1962
+2000,"Aguirre, der Zorn Gottes","['Adventure', 'Drama', 'History']","['DE', 'PE']",,1972
+648,La belle et la bête,"['Drama', 'Fantasy', 'Romance']",['FR'],,1946
+3089,Red River,['Western'],['US'],,1948
+1594,A Shot in the Dark,"['Comedy', 'Crime']","['GB', 'US']",The Pink Panther (Original) Collection,1964
+916,Bullitt,"['Action', 'Crime', 'Drama', 'Thriller']",['US'],,1968
+31685,The Hunchback of Notre Dame,"['Romance', 'Drama', 'Horror']",['US'],,1939
+3062,42nd Street,"['Music', 'Comedy', 'Romance']",['US'],,1933
+79,英雄,"['Drama', 'Adventure', 'Action', 'History']",['CN'],,2002
+81,風の谷のナウシカ,"['Adventure', 'Animation', 'Fantasy']",['JP'],,1984
+616,The Last Samurai,"['Drama', 'Action', 'War', 'History']","['JP', 'US', 'NZ']",,2003
+587,Big Fish,"['Adventure', 'Fantasy', 'Drama']",['US'],,2003
+1792,Stuck on You,['Comedy'],['US'],,2003
+3635,Girl with a Pearl Earring,"['Drama', 'Romance']","['GB', 'LU']",,2003
+122,The Lord of the Rings: The Return of the King,"['Adventure', 'Fantasy', 'Action']","['NZ', 'US']",The Lord of the Rings Collection,2003
+2289,Cold Mountain,['Drama'],"['US', 'GB', 'RO', 'IT']",,2003
+1882,The Men,['Drama'],['US'],,1950
+427,Mon oncle,['Comedy'],"['FR', 'IT']",,1958
+3022,Dr. Jekyll and Mr. Hyde,"['Drama', 'Horror', 'Science Fiction']",['US'],,1941
+778,Les Vacances de Monsieur Hulot,"['Comedy', 'Family']",['FR'],,1953
+3088,My Darling Clementine,"['Drama', 'Western']",['US'],,1946
+405,La strada,['Drama'],['IT'],,1954
+1954,The Butterfly Effect,"['Science Fiction', 'Thriller']","['CA', 'US']",The Butterfly Effect Collection,2004
+1278,The Dreamers,"['Drama', 'Romance']","['FR', 'IT', 'GB']",,2003
+337,Monsieur Ibrahim et les fleurs du Coran,['Drama'],['FR'],,2003
+338,"Good bye, Lenin!","['Comedy', 'Drama', 'Romance']",['DE'],,2003
+2023,Hidalgo,"['Western', 'Adventure']","['US', 'MA']",,2004
+1586,Secret Window,"['Thriller', 'Mystery']",['US'],,2004
+156,Wilbur begår selvmord,"['Comedy', 'Drama', 'Romance']","['DK', 'FR', 'GB', 'SE']",,2002
+924,Dawn of the Dead,"['Fantasy', 'Horror', 'Action']",['US'],,2004
+553,Dogville,"['Crime', 'Drama', 'Thriller']","['DK', 'FI', 'FR', 'DE', 'IT', 'NL', 'NO', 'SE', 'GB']",USA: Land of Opportunities Collection,2003
+2122,The Whole Ten Yards,"['Comedy', 'Thriller', 'Crime']",['US'],The Whole Nine/Ten Yards Collection,2004
+923,Dawn of the Dead,['Horror'],"['IT', 'JP', 'US']",Living Dead Collection,1978
+3591,One Million Years B.C.,"['Action', 'Adventure', 'Fantasy']",['GB'],,1966
+237,Young Adam,"['Drama', 'Thriller', 'Crime', 'Romance']","['FR', 'GB']",,2003
+502,Fail-Safe,"['Drama', 'History', 'Thriller']",['US'],,1964
+1373,The Discovery of Heaven,"['Drama', 'Fantasy']","['GB', 'NL']",,2001
+204,Le salaire de la peur,"['Drama', 'Thriller', 'Adventure']","['FR', 'IT']",,1953
+1394,Nostalghia,"['Drama', 'Romance']","['SU', 'IT']",,1983
+1719,La Peau douce,"['Drama', 'Romance']",['FR'],,1964
+222,Berlin: Die Sinfonie der Grosstadt,"['Documentary', 'History']",['DE'],,1927
+1059,隠し砦の三悪人,"['Adventure', 'Drama', 'Action', 'Comedy']",['JP'],,1958
+5481,Schock,"['Horror', 'Thriller']",['IT'],,1977
+7090,Ken Park,['Drama'],"['FR', 'NL', 'US']",,2002
+5902,A Bridge Too Far,"['Drama', 'History', 'War']","['GB', 'US']",,1977
+203,Mean Streets,"['Drama', 'Crime']",['US'],,1973
+316,Halbe Treppe,"['Comedy', 'Drama']",['DE'],,2002
+3072,Frankenstein Unbound,"['Drama', 'Horror', 'Science Fiction']",['US'],,1990
+48385,Indestructible Man,"['Crime', 'Horror', 'Science Fiction']",['US'],,1956
+1994,The Most Dangerous Game,"['Adventure', 'Horror', 'Thriller']",['US'],,1932
+435,The Day After Tomorrow,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",['US'],,2004
+673,Harry Potter and the Prisoner of Azkaban,"['Adventure', 'Fantasy', 'Family']","['GB', 'US']",Harry Potter Collection,2004
+246,座頭市,"['Adventure', 'Drama', 'Action']",['JP'],,2003
+46976,Wish You Were Here,"['Comedy', 'Drama', 'Foreign', 'Romance']",['GB'],,1987
+3019,Dr. Jekyll and Mr. Hyde,"['Horror', 'Science Fiction']",['US'],,1931
+594,The Terminal,"['Comedy', 'Drama']",['US'],,2004
+8981,Dear Frankie,"['Drama', 'Family']",['GB'],,2004
+1944,The Door in the Floor,['Drama'],['US'],,2004
+1997,Deux frères,"['Adventure', 'Drama', 'Family']","['FR', 'GB']",,2004
+2334,Taxi 3,"['Action', 'Comedy']",['FR'],Taxi Collection,2003
+2912,Le Boucher,"['Drama', 'Foreign', 'Thriller']",['FR'],,1970
+2202,Lassie Come Home,"['Adventure', 'Drama', 'Family']",['US'],Lassie (Kinofilme),1943
+3484,The Mask of Fu Manchu,"['Adventure', 'Fantasy', 'Horror']",['US'],,1932
+1777,Fahrenheit 9/11,[],['US'],,2004
+2502,The Bourne Supremacy,"['Action', 'Drama', 'Thriller']","['DE', 'US']",The Bourne Collection,2004
+314,Catwoman,"['Action', 'Crime']",['US'],,2004
+69526,The Assassination Bureau,"['Thriller', 'Crime', 'Comedy', 'Action', 'Adventure']",['GB'],,1969
+6947,The Village,"['Drama', 'Mystery', 'Thriller']",['US'],,2004
+2003,Anatomie de l'enfer,['Drama'],['FR'],,2004
+1653,Diarios de motocicleta,['Drama'],"['BR', 'AR', 'CL', 'FR', 'DE', 'PE', 'GB', 'US']",,2004
+176,Saw,"['Horror', 'Mystery', 'Crime']",['US'],Saw Collection,2004
+866,Finding Neverland,['Drama'],"['GB', 'US']",,2004
+2059,National Treasure,"['Adventure', 'Action', 'Thriller', 'Mystery']",['US'],National Treasure Collection,2004
+140,La mala educación,"['Crime', 'Drama', 'Romance', 'Thriller']",['ES'],,2004
+1966,Alexander,"['War', 'History', 'Action', 'Adventure', 'Drama', 'Romance']","['FR', 'DE', 'IT', 'NL', 'GB', 'US']",,2004
+2288,Closer,"['Drama', 'Romance']",['US'],,2004
+163,Ocean's Twelve,"['Thriller', 'Crime']",['US'],Ocean's Collection,2004
+3016,Dr. Jekyll and Mr. Hyde,"['Drama', 'Horror', 'Science Fiction']",['US'],,1920
+3060,The Big Parade,"['Drama', 'Romance', 'War']",['US'],,1925
+1405,Greed,"['Drama', 'History']",['US'],,1924
+905,Die Büchse der Pandora,"['Drama', 'Thriller', 'Romance']",['DE'],,1929
+3061,The Crowd,['Drama'],['US'],,1928
+4558,Orphée,"['Drama', 'Fantasy', 'Romance']",['FR'],The Orphic Trilogy,1950
+800,Los Olvidados,"['Crime', 'Drama']",['MX'],,1950
+750,Murder She Said,"['Drama', 'Crime', 'Mystery', 'Comedy']",['GB'],,1961
+4025,The Prize,"['Drama', 'Mystery', 'Crime']",['US'],,1963
+3763,鬼婆,['Horror'],['JP'],,1964
+135,Dont Look Back,"['Documentary', 'Music']",['GB'],,1967
+839,Duel,"['TV Movie', 'Action', 'Thriller']",['US'],,1972
+5618,"Cousin, Cousine","['Romance', 'Comedy']",['FR'],,1975
+1835,"Farewell, My Lovely","['Crime', 'Mystery', 'Thriller']",['US'],,1975
+232,Rumble Fish,"['Action', 'Adventure', 'Crime', 'Drama', 'Romance']",['US'],,1983
+30707,Star 80,['Drama'],['US'],,1983
+1884,The Ewok Adventure,"['Adventure', 'Family', 'Fantasy', 'Science Fiction', 'TV Movie']",['US'],Star Wars: The Ewok Adventures Collection,1985
+31696,A Kiss Before Dying,"['Mystery', 'Thriller', 'Crime']","['GB', 'US']",,1991
+8983,Felidae,"['Animation', 'Mystery', 'Thriller']",['DE'],,1994
+1283,"Torrente, el brazo tonto de la ley","['Comedy', 'Crime']",['ES'],Torrente Collection,1998
+344,Bang Boom Bang - Ein todsicheres Ding,"['Crime', 'Action', 'Comedy']",['DE'],Unna Trilogie,1999
+2463,暗戰,"['Drama', 'Action', 'Thriller', 'Crime']",['HK'],Running Out Of Time Collection,1999
+919,Blood: The Last Vampire,"['Fantasy', 'Animation', 'Horror', 'Comedy', 'Thriller', 'Science Fiction']",['JP'],,2000
+2111,巴尔扎克与小裁缝,"['Drama', 'Foreign']","['CN', 'FR']",,2002
+4326,Herr Lehmann,"['Comedy', 'Drama']",['DE'],Herr Lehmann Filmreihe,2003
+2841,Un long dimanche de fiançailles,['Drama'],['FR'],,2004
+2539,Spanglish,['Comedy'],['US'],,2004
+5528,Les Choristes,['Drama'],"['CH', 'DE', 'FR']",,2004
+3396,The Yes Men,"['Comedy', 'Documentary']",['US'],The Yes Men Collection,2003
+1126,In My Father's Den,"['Drama', 'Thriller']",['NZ'],,2004
+4896,Muxmäuschenstill,"['Comedy', 'Drama']",['DE'],,2004
+986,Falstaff,"['Comedy', 'Drama', 'History']","['CH', 'ES', 'FR']",,1965
+70,Million Dollar Baby,['Drama'],['US'],,2004
+1280,빈집,"['Drama', 'Romance', 'Crime']","['KR', 'JP']",,2004
+421,The Life Aquatic with Steve Zissou,"['Adventure', 'Comedy', 'Drama']",['US'],,2004
+2567,The Aviator,['Drama'],['US'],,2004
+342,Sommersturm,"['Comedy', 'Drama']",['DE'],,2004
+613,Der Untergang,"['Drama', 'History', 'War']","['AT', 'DE', 'IT']",,2004
+273,Das weisse Rauschen,['Drama'],['DE'],,2001
+661,Die Ehe der Maria Braun,"['War', 'Drama']",['DE'],The BRD Collection,1979
+42011,Marusa no onna,"['Comedy', 'Crime']",['JP'],,1987
+7454,The Bunker,"['Action', 'History', 'Horror']",['US'],,2001
+41569,The Nomi Song,"['Documentary', 'Foreign']",['DE'],,2004
+2926,The Three Musketeers,"['Action', 'Adventure', 'Comedy', 'Drama']",['US'],The Musketeers Collection,1973
+4974,5x2,"['Drama', 'Romance']",['FR'],,2004
+258,Domicile Conjugal,"['Comedy', 'Drama', 'Romance']",['FR'],The Adventures of Antoine Doinel,1970
+4235,Le Clan des Siciliens,['Crime'],['FR'],,1969
+6593,ゴジラvsメカゴジラ,"['Action', 'Drama', 'Fantasy', 'Foreign', 'Science Fiction']",['JP'],Godzilla (Heisei) Collection,1993
+1918,Or,['Drama'],"['IL', 'FR']",,2004
+1093,Ascenseur pour l'échafaud,"['Drama', 'Thriller', 'Crime']",['FR'],,1958
+1589,The Boys from County Clare,"['Romance', 'Comedy', 'Music']","['GB', 'IE', 'DE']",,2003
+540,D.E.B.S.,['Action'],['US'],,2004
+158,Knockin' on Heaven's Door,"['Comedy', 'Crime']","['BE', 'DE', 'NL']",,1997
+1772,City of Hope,['Drama'],['US'],,1991
+26614,La Chienne,['Drama'],['FR'],,1931
+1566,Die Brücke,"['Drama', 'History', 'War']",['DE'],,1959
+1279,사마리아,['Drama'],['KR'],,2004
+1895,Star Wars: Episode III - Revenge of the Sith,"['Science Fiction', 'Adventure', 'Action']",['US'],Star Wars Collection,2005
+953,Madagascar,"['Family', 'Animation']",['US'],Madagascar Collection,2005
+921,Cinderella Man,"['Romance', 'Drama', 'History']",['US'],,2005
+272,Batman Begins,"['Action', 'Crime', 'Drama']","['GB', 'US']",The Dark Knight Collection,2005
+276,Die fetten Jahre sind vorbei,"['Drama', 'Comedy']","['AT', 'DE']",,2004
+74,War of the Worlds,"['Adventure', 'Thriller', 'Science Fiction']",['US'],,2005
+36401,Pornografia,"['War', 'Drama', 'Romance']","['FR', 'PL']",,2003
+1635,The Island,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",['US'],,2005
+308,Broken Flowers,"['Comedy', 'Drama', 'Mystery', 'Romance']","['FR', 'US']",,2005
+501,Grizzly Man,['Documentary'],['US'],,2005
+6957,The 40 Year Old Virgin,"['Comedy', 'Romance']",['US'],,2005
+1917,Qui a tué Bambi ?,['Thriller'],['FR'],,2003
+1676,Will Penny,"['Romance', 'Western']",['US'],,1967
+2125,Wedlock,"['Action', 'Science Fiction', 'Thriller']",['US'],,1991
+1947,An Unfinished Life,['Drama'],"['US', 'DE']",,2005
+257,Oliver Twist,"['Crime', 'Drama', 'Family']","['CZ', 'FR', 'IT', 'GB']",,2005
+647,Final Fantasy VII: Advent Children,"['Action', 'Adventure', 'Animation', 'Fantasy']",['JP'],Final Fantasy Collection,2005
+349,Crustacés et coquillages,['Comedy'],['FR'],,2005
+3527,Don't Come Knocking,"['Drama', 'Music']","['FR', 'DE', 'US']",,2005
+41566,New York Doll,"['Documentary', 'Music']",['US'],,2005
+215,Saw II,['Horror'],['US'],Saw Collection,2005
+2313,Prime,"['Comedy', 'Drama', 'Romance']",['US'],,2005
+1951,Manderlay,['Drama'],"['DK', 'FR', 'DE', 'IT', 'NL', 'SE', 'GB']",USA: Land of Opportunities Collection,2005
+25,Jarhead,"['Drama', 'War']","['DE', 'US']",Jarhead Collection,2005
+5620,"Nachts, wenn Dracula erwacht",['Horror'],"['DE', 'IT', 'LI', 'ES']",,1970
+231,Syriana,"['Drama', 'Thriller']",['US'],,2005
+674,Harry Potter and the Goblet of Fire,"['Adventure', 'Fantasy', 'Family']","['GB', 'US']",Harry Potter Collection,2005
+69,Walk the Line,"['Drama', 'Music', 'Romance']","['DE', 'US']",,2005
+1833,Rent,"['Drama', 'Romance']",['US'],,2005
+2153,The Driver,"['Action', 'Crime', 'Drama', 'Thriller']","['GB', 'US']",,1978
+546,Transamerica,['Drama'],['US'],,2005
+6934,Yesterday,['Drama'],['ZA'],,2004
+1690,Hostel,['Horror'],['US'],Hostel Collection,2005
+2455,Vivement dimanche!,"['Drama', 'Comedy', 'Crime']",['FR'],,1983
+2117,Sophie Scholl – Die letzten Tage,"['Drama', 'History']",['DE'],,2005
+17,The Dark,"['Horror', 'Thriller', 'Mystery']","['DE', 'GB']",,2006
+292,Dave Chappelle's Block Party,"['Comedy', 'Documentary', 'Music']",['US'],,2005
+1544,Imagine Me & You,"['Drama', 'Comedy', 'Romance']","['DE', 'GB', 'US']",,2005
+950,Ice Age: The Meltdown,"['Animation', 'Family', 'Comedy', 'Adventure']",['US'],Ice Age Collection,2006
+1967,Ask the Dust,"['Drama', 'Romance']",['US'],,2006
+1379,Laitakaupungin valot,"['Crime', 'Drama']",['FI'],Aki Kaurismäki's Finland trilogy,2006
+52885,"Csillagosok, Katonák","['Drama', 'War', 'Foreign']","['HU', 'RU']",,1967
+186,Lucky Number Slevin,"['Drama', 'Thriller', 'Crime', 'Mystery']","['DE', 'US']",,2006
+84954,Geheimnisse einer Seele,"['Thriller', 'Drama']",['DE'],,1926
+588,Silent Hill,"['Horror', 'Mystery']","['CA', 'FR', 'JP', 'US']",Silent Hill Collection,2006
+1416,해안선,"['Thriller', 'Drama']",['KR'],,2002
+920,Cars,"['Animation', 'Adventure', 'Comedy', 'Family']",['US'],Cars Collection,2006
+350,The Devil Wears Prada,"['Comedy', 'Drama', 'Romance']",['US'],,2006
+58,Pirates of the Caribbean: Dead Man's Chest,"['Adventure', 'Fantasy', 'Action']",['US'],Pirates of the Caribbean Collection,2006
+1611,Das Wunder von Bern,"['Drama', 'Comedy']",['DE'],,2003
+410,Sommer vorm Balkon,"['Comedy', 'Drama']",['DE'],,2005
+1262,Stranger Than Fiction,"['Comedy', 'Drama', 'Fantasy', 'Romance']",['US'],,2006
+2805,ฟ้าทะลายโจร,"['Romance', 'Comedy', 'Action']",['TH'],,2000
+1948,Crank,"['Action', 'Thriller', 'Crime']",['US'],Crank Collection,2006
+1023,Adams æbler,"['Drama', 'Comedy', 'Crime']","['DK', 'DE']",,2005
+1249,Hollywoodland,"['Drama', 'Thriller', 'Crime']",['US'],,2006
+1381,The Fountain,"['Drama', 'Adventure', 'Science Fiction', 'Romance']",['US'],,2006
+300,La science des rêves,"['Comedy', 'Drama', 'Fantasy']","['FR', 'IT']",,2006
+1717,All the King's Men,"['Drama', 'Thriller']",['US'],,2006
+4643,The Guardian,"['Action', 'Adventure', 'Drama']",['US'],,2006
+1422,The Departed,"['Drama', 'Thriller', 'Crime']","['HK', 'US']",,2006
+3593,Dr. Cyclops,"['Adventure', 'Horror', 'Science Fiction']",['US'],,1940
+39183,Once in a Lifetime: The Extraordinary Story of the New York Cosmos,['Documentary'],[],,2006
+86,Elementarteilchen,"['Drama', 'Romance']","['DE', 'IE']",,2006
+1378,Shortbus,"['Romance', 'Drama', 'Comedy']",['US'],,2006
+1124,The Prestige,"['Drama', 'Mystery', 'Thriller']",['US'],,2006
+3683,Flags of Our Fathers,"['War', 'Drama', 'History']",['US'],Clint Eastwood's Iwo Jima Collection,2006
+2357,10 Items or Less,"['Comedy', 'Drama']",['US'],,2006
+2447,The Nativity Story,"['Drama', 'History']",['US'],,2006
+1372,Blood Diamond,"['Drama', 'Thriller', 'Action']","['DE', 'US']",,2006
+1246,Rocky Balboa,['Drama'],['US'],Rocky Collection,2006
+1247,The Good Shepherd,"['Drama', 'Thriller', 'History']",['US'],,2006
+1125,Dreamgirls,['Drama'],['US'],,2006
+1259,Notes on a Scandal,"['Drama', 'Romance']",['GB'],,2006
+1251,Letters from Iwo Jima,"['Action', 'Adventure', 'Drama', 'War']","['JP', 'US']",Clint Eastwood's Iwo Jima Collection,2006
+2433,Les demoiselles de Rochefort,"['Music', 'Romance', 'Drama', 'Comedy']",['FR'],,1967
+3549,Efter brylluppet,['Drama'],"['DK', 'SE']",,2006
+1265,Bridge to Terabithia,"['Adventure', 'Drama', 'Family']",['US'],,2007
+1257,Because I Said So,['Comedy'],['US'],,2007
+1248,Hannibal Rising,"['Crime', 'Drama', 'Thriller']","['GB', 'CZ', 'FR', 'IT']",The Hannibal Lecter Anthology,2007
+1252,Lonely Hearts,"['Drama', 'Thriller', 'Crime', 'Romance']",['US'],,2006
+1250,Ghost Rider,"['Thriller', 'Action', 'Fantasy', 'Horror']","['US', 'AU']",Ghost Rider Collection,2007
+3594,The Number 23,"['Thriller', 'Drama', 'Mystery']","['DE', 'US']",,2007
+4638,Hot Fuzz,"['Crime', 'Action', 'Comedy']",['GB'],,2007
+1253,Breaking and Entering,"['Drama', 'Romance']","['GB', 'US']",,2006
+1271,300,"['Action', 'Adventure', 'War']",['US'],300 Collection,2006
+1255,괴물,"['Horror', 'Drama', 'Science Fiction']",['KR'],,2006
+2355,Reign Over Me,['Drama'],['US'],,2007
+1273,TMNT,"['Adventure', 'Animation', 'Comedy', 'Family']",['US'],,2007
+1267,Meet the Robinsons,"['Animation', 'Comedy', 'Family']",['US'],,2007
+1272,Sunshine,"['Science Fiction', 'Thriller']","['GB', 'US']",,2007
+1590,Copying Beethoven,['Drama'],"['DE', 'US']",,2006
+1407,La Môme,"['Romance', 'Music', 'Drama']","['CZ', 'FR', 'GB']",,2007
+1441,The Contract,"['Drama', 'Action', 'Thriller', 'Crime']","['BG', 'US']",,2006
+1268,Mr. Bean's Holiday,"['Family', 'Comedy']","['GB', 'US', 'FR', 'DE']",Mr. Bean Collection,2007
+1950,Lucky You,"['Drama', 'Romance']",['US'],,2007
+27904,แสงศตวรรษ,"['Drama', 'Romance']","['TH', 'AT', 'FR']",,2006
+2269,Дневной дозор,"['Fantasy', 'Horror']",['RU'],World of Watches Collection,2006
+2976,Hairspray,"['Family', 'Comedy', 'Music', 'Romance']","['GB', 'US']",,2007
+1562,28 Weeks Later,"['Horror', 'Thriller', 'Science Fiction']","['ES', 'GB']",28 Days/Weeks Later Collection,2007
+3489,88 Minutes,"['Crime', 'Mystery', 'Thriller']",['US'],,2007
+2359,Sicko,['Documentary'],['US'],,2007
+442,Populärmusik från Vittula,"['Comedy', 'Drama']","['FI', 'SE']",,2004
+2959,License to Wed,['Comedy'],"['AU', 'US']",,2007
+81847,The Dawn Patrol,"['Action', 'War', 'Drama']",['US'],,1930
+35,The Simpsons Movie,"['Animation', 'Comedy', 'Family']",['US'],,2007
+3638,No Reservations,['Comedy'],"['AU', 'US']",,2007
+1721,...Più forte ragazzi!,"['Adventure', 'Action', 'Comedy']",['IT'],,1972
+5956,Joshua,"['Drama', 'Thriller', 'Horror']",['US'],,2007
+1127,Princesas,['Drama'],['ES'],,2005
+1393,Die Höhle des gelben Hundes,"['Documentary', 'Drama']","['MN', 'DE']",,2005
+2701,Abraham,['Drama'],"['AT', 'DE', 'IT', 'US']",The Bible Collection,1994
+2082,Halloween,['Horror'],['US'],Halloween (Rob Zombie Series) Collection,2007
+1845,2 Days in Paris,"['Comedy', 'Romance']","['FR', 'DE']",2 Days In... Collection,2007
+2335,Taxi 4,"['Action', 'Comedy']",['FR'],Taxi Collection,2007
+4351,Bordertown,"['Crime', 'Drama', 'Mystery']",['US'],,2006
+2009,"4 luni, 3 săptămîni și 2 zile",['Drama'],"['BE', 'RO']",,2007
+3469,Far from the Madding Crowd,"['Drama', 'Romance']",['GB'],,1967
+2252,Eastern Promises,"['Thriller', 'Crime', 'Mystery']","['GB', 'US', 'CA']",,2007
+2728,Postal,"['Action', 'Comedy']",['CA'],,2007
+2001,We Own the Night,"['Drama', 'Crime', 'Thriller']",['US'],,2007
+2011,Persepolis,"['Animation', 'Drama']","['FR', 'US']",,2007
+2014,Auf der anderen Seite,['Drama'],"['DE', 'TR']",,2007
+663,Saw IV,"['Horror', 'Thriller', 'Crime']",['US'],Saw Collection,2007
+2015,밀양,['Drama'],['KR'],,2007
+2013,Le scaphandre et le papillon,['Drama'],"['FR', 'US']",,2007
+1620,Hitman,"['Action', 'Crime', 'Drama', 'Thriller']","['FR', 'US']",Hitman Collection,2007
+2268,The Golden Compass,"['Adventure', 'Fantasy']","['GB', 'US']",,2007
+6537,El orfanato,"['Horror', 'Drama', 'Thriller']","['ES', 'MX']",,2007
+440,Aliens vs Predator: Requiem,"['Fantasy', 'Action', 'Science Fiction', 'Thriller', 'Horror']",['US'],AVP Collection,2007
+1488,綠草地,"['Drama', 'Comedy']",['CN'],,2005
+2312,In the Name of the King: A Dungeon Siege Tale,"['Adventure', 'Fantasy', 'Action', 'Drama']","['CA', 'DE', 'US']",In the Name of the King Collection,2007
+4034,L'Homme de Rio,"['Action', 'Adventure', 'Comedy']",['FR'],,1964
+1479,"Clean, Shaven","['Drama', 'Crime']",['US'],,1993
+2282,À nos amours,"['Drama', 'Romance']",['FR'],,1983
+33166,Downhill Racer,['Drama'],['US'],,1969
+383,Mala Noche,['Drama'],['US'],,1986
+1266,Street Kings,"['Action', 'Crime', 'Drama', 'Thriller']",['US'],Street Kings Collection,2008
+1729,The Forbidden Kingdom,"['Action', 'Adventure', 'Fantasy']","['CN', 'US']",,2008
+1810,Viva Zapata!,"['History', 'Drama', 'Western']",['US'],,1952
+2454,The Chronicles of Narnia: Prince Caspian,"['Adventure', 'Family', 'Fantasy']","['CZ', 'PL', 'SI', 'US']",The Chronicles of Narnia Collection,2008
+4857,Adieu l'ami,"['Crime', 'Action', 'Adventure']","['FR', 'IT']",,1968
+8645,The Happening,"['Thriller', 'Science Fiction']","['US', 'IN', 'FR']",,2008
+31658,Hour of the Gun,"['Action', 'Drama', 'Western']",['US'],,1967
+428,Sommer '04,"['Drama', 'Romance']",['DE'],,2006
+2002,Une vieille maîtresse,"['Drama', 'Romance']","['IT', 'FR']",,2007
+1735,The Mummy: Tomb of the Dragon Emperor,"['Adventure', 'Action', 'Fantasy']","['DE', 'US']",The Mummy Collection,2008
+2012,Stellet Licht,['Drama'],"['MX', 'DE', 'FR', 'NL']",,2007
+3,Varjoja paratiisissa,"['Drama', 'Comedy']",['FI'],,1986
+3097,"The Tulse Luper Suitcases, Part 1: The Moab Story","['War', 'Drama', 'History', 'Adventure', 'Romance', 'Thriller']","['GB', 'NL']",Tulse Luper,2003
+4701,A Tale of Two Cities,"['Drama', 'History', 'Romance']",['GB'],,1958
+111759,Don Q Son of Zorro,"['Western', 'Adventure', 'Romance']",['US'],,1925
+8966,Twilight,"['Adventure', 'Fantasy', 'Drama', 'Romance']",['US'],The Twilight Collection,2008
+2574,Les amants,"['Romance', 'Drama']",['FR'],,1958
+1964,Ein Freund von mir,['Drama'],['DE'],,2006
+5816,Ober,['Comedy'],['NL'],,2006
+2694,Tuya de hun shi,"['Drama', 'Romance', 'Foreign']",['CN'],,2006
+2253,Valkyrie,"['Drama', 'Thriller', 'History', 'War']","['DE', 'US']",,2008
+6936,Ben X,['Drama'],['BE'],,2007
+4148,Revolutionary Road,"['Drama', 'Romance']","['GB', 'US']",,2008
+53519,High and Dizzy,['Comedy'],['US'],,1920
+317,Grbavica,"['Drama', 'History']","['BA', 'AT', 'DE', 'HR']",,2006
+1961,My Name Is Bruce,"['Comedy', 'Horror']",['US'],,2007
+434,Knallhart,"['Drama', 'Thriller']",['DE'],,2006
+1387,Superstar: The Karen Carpenter Story,"['Drama', 'Music']",['US'],,1988
+2080,X-Men Origins: Wolverine,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",['US'],The Wolverine Collection,2009
+42738,Scorpio,"['Action', 'Adventure', 'Drama', 'Thriller']",['US'],,1973
+534,Terminator Salvation,"['Action', 'Science Fiction', 'Thriller']","['DE', 'IT', 'GB', 'US']",The Terminator Collection,2009
+761,L'Aile ou la Cuisse,['Comedy'],['FR'],,1976
+3478,Ludwig,"['Drama', 'History']","['FR', 'DE', 'IT']",,1972
+2861,Le beau mariage,"['Drama', 'Comedy', 'Romance']",['FR'],,1982
+5060,Carry On Screaming,['Comedy'],['GB'],The Carry On Collection,1966
+4734,Van Gogh,['Drama'],['FR'],,1991
+2973,Аэлита,"['Science Fiction', 'Adventure', 'Drama', 'Fantasy']",['RU'],,1924
+836,Vidas secas,"['Drama', 'Foreign', 'Romance']",['BR'],,1963
+7445,Brothers,"['Drama', 'Thriller', 'War']",['US'],,2009
+1284,Torrente 2: Misión en Marbella,"['Comedy', 'Crime']",['ES'],Torrente Collection,2001
+2143,Carla's Song,"['War', 'Drama', 'Romance']",['GB'],,1996
+2395,Astérix aux Jeux Olympiques,"['Fantasy', 'Adventure', 'Comedy', 'Family']","['BE', 'FR', 'DE', 'IT', 'ES']",Asterix and Obelix Collection,2008
+1912,Free Rainer - Dein Fernseher lügt,"['Comedy', 'Drama']",['DE'],,2007
+7346,文雀,['Thriller'],['HK'],,2008
+40819,Best Worst Movie,"['Documentary', 'Comedy']","['US', 'IS', 'IT', 'GB']",Troll Collection,2009
+3037,Yella,"['Drama', 'Romance']",['DE'],,2007
+2363,Les Cousins,['Drama'],['FR'],,1959
+1920,Crime of Passion,"['Crime', 'Drama', 'Thriller']",['US'],,1957
+3476,L'important c'est d'aimer,"['Drama', 'Romance']","['FR', 'DE', 'IT']",,1975
+1914,FC Venus,['Comedy'],['DE'],,2006
+94959,"Edward, My Son",['Drama'],['US'],,1949
+3007,Frau im Mond,"['Drama', 'Comedy', 'Science Fiction', 'Romance']",['DE'],,1929
+1673,Comanche Station,"['Action', 'Western']",['US'],,1960
+8464,Top of the Food Chain,"['Horror', 'Comedy', 'Science Fiction']",['CA'],,1999
+481,7 vírgenes,['Drama'],['ES'],,2005
+1361,The Return of the King,"['Animation', 'Family', 'Fantasy']",['US'],The Lord of the Rings Animated Collection,1980
+47610,Schwerkraft,"['Crime', 'Drama']",['DE'],,2010
+1244,Das wilde Leben,"['Music', 'Drama', 'Comedy']",['DE'],,2007
+471,Bandyta,['Drama'],"['DE', 'FR', 'PL']",,1997
+2010,殯の森,['Drama'],['JP'],,2007
+54001,مسافر,['Drama'],['IR'],,1974
+3081,The Goddess,['Drama'],['US'],,1958
+44555,三枪拍案惊奇,"['Comedy', 'Drama', 'Thriller']",['CN'],,2009
+47518,The Tortured,['Horror'],"['US', 'CA']",,2010
+3107,怪獣総進撃,"['Action', 'Science Fiction', 'Thriller', 'Horror']",['JP'],Godzilla (Showa) Collection,1968
+51540,Horrible Bosses,"['Comedy', 'Crime']",['US'],Horrible Bosses Collection,2011
+4641,Read It and Weep,"['Comedy', 'Drama', 'Family', 'TV Movie']",['US'],,2006
+36519,Payment Deferred,"['Crime', 'Thriller']",['US'],,1932
+49530,In Time,"['Action', 'Thriller', 'Science Fiction']",['US'],,2011
+47099,Tueur à gages,[],"['FR', 'KZ']",,1998
+1254,"Je vais bien, ne t'en fais pas",['Drama'],['FR'],,2006
+2349,Erbsen auf halb 6,['Drama'],['DE'],,2004
+8368,The Garden of Eden,['Drama'],['GB'],,2008
+3051,Eye of the Devil,"['Crime', 'Horror', 'Mystery']",['GB'],,1966
+2929,Frankenstein,"['Horror', 'Science Fiction']",['US'],,1910
+77561,EVA,['Science Fiction'],['ES'],,2011
+3556,Mad Dog Coll,"['Crime', 'Drama']",['US'],,1961
+85414,Brake,"['Action', 'Thriller']",['US'],,2012
+1556,薔薇の葬列,['Drama'],['JP'],,1969
+40629,The Mikado,"['Drama', 'Comedy', 'Music', 'Romance', 'Foreign']",[],,1987
+96821,Cesare deve morire,"['Drama', 'Documentary']",['IT'],,2012
+160,L'arrivée d'un train en gare de La Ciotat,['Documentary'],['FR'],,1896
+89492,This Is 40,['Comedy'],['US'],,2012
+46972,Big Girls Don't Cry... They Get Even,"['Comedy', 'Drama', 'Family']",[],,1992
+3146,Furankenshutain no Kaijū: Sanda tai Gaira,"['Action', 'Horror', 'Science Fiction']",['JP'],,1966
+3052,Don't Make Waves,['Comedy'],['US'],,1967
+2966,"20,000 Leagues Under the Sea","['Adventure', 'Fantasy', 'Action', 'Science Fiction']","['AU', 'US']",,1997
+3160,Furankenshutain Tai Chitei Kaijū Baragon,"['Horror', 'Science Fiction']",['JP'],,1965
+56949,El viento se llevó lo qué,[],"['AR', 'FR', 'NL', 'ES']",,1998
+2072,Cyberjack,"['Action', 'Science Fiction', 'Thriller']",['CA'],,1995
+8985,Visions of Europe,"['Comedy', 'Drama']","['AT', 'BE', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'SK', 'SI', 'ES', 'SE', 'GB']",,2004
+54272,座頭市関所破り,"['Adventure', 'Action', 'Drama']",['JP'],Zatôichi: The Blind Swordsman,1964
+5995,Miffo,"['Comedy', 'Drama']",['SE'],,2003
+84152,Dollman vs. Demonic Toys,"['Horror', 'Thriller', 'Science Fiction', 'Action', 'Fantasy']",['US'],Demonic Toys Collection,1993
+1732,The Prisoner of Zenda,"['Action', 'Adventure', 'Comedy']",['US'],,1979
+44022,Bandido!,"['Action', 'Western']",['US'],,1956
+2692,Der rote Elvis,['Documentary'],['DE'],,2007
+1285,Torrente 3: El protector,"['Comedy', 'Crime']",['ES'],Torrente Collection,2005
+256,Antoine et Colette,['Drama'],['FR'],The Adventures of Antoine Doinel,1962
+2089,Cutaway,"['Action', 'Thriller']",['US'],,2000
+56152,Brigham Young,"['History', 'Romance', 'Western']",['US'],,1940
+2139,Cleopatra Jones and the Casino of Gold,"['Action', 'Adventure', 'Drama']","['HK', 'US']",Cleopatra Jones,1975
+2699,Titanic,"['Action', 'Drama', 'Romance']","['CA', 'US']",,1996
+4226,Shriek If You Know What I Did Last Friday the Thirteenth,['Comedy'],['US'],,2000
+4344,Hotel Very Welcome,"['Comedy', 'Drama', 'Family', 'Foreign', 'Horror']",['DE'],,2007
+3686,Winnetou II,['Western'],"['DE', 'HR', 'IT', 'FR']",Winnetou Collection,1964
+2648,新最佳拍檔,['Action'],['HK'],Aces Go Places Collection,1989
+1260,Leiutajateküla Lotte,"['Adventure', 'Animation', 'Comedy', 'Family']",[],,2006
+2186,Within the Woods,['Horror'],['US'],,1978
+41571,The Heart of the World,"['Science Fiction', 'Drama']",['CA'],,2000
+92,Megacities,['Documentary'],['AT'],,1998
+3168,Ballo a tre passi,['Drama'],['IT'],,2003
+44191,Loose Screws,['Comedy'],['CA'],Screwballs Collection,1985
+37727,Jönssonligan får guldfeber,['Comedy'],"['DK', 'SE']",Jönsson Gang,1984
+2141,James Dean,['Drama'],['US'],,2001
+3004,12 + 1,['Comedy'],"['FR', 'IT']",,1969
+2993,Una sull'altra,"['Mystery', 'Thriller']","['ES', 'IT', 'FR']",,1969
+27706,Il medaglione insanguinato,['Horror'],"['IT', 'GB']",,1975
+8371,Guter Junge,['Drama'],['DE'],,2008
+1269,Neues vom Wixxer,"['Comedy', 'Crime']",['DE'],The Wixxer Trilogy,2007
+1616,Erkan & Stefan in Der Tod kommt krass,['Comedy'],['DE'],Erkan & Stefan Filmreihe,2005
+46578,The Great American Girl Robbery,"['Comedy', 'Crime']",['US'],,1979
+88744,Die Frau mit den 5 Elefanten,"['Documentary', 'Foreign']",['CH'],,2010
+3701,Milano Rovente,"['Action', 'Crime', 'Foreign', 'Thriller']",['IT'],,1973
+3699,Sette orchidee macchiate di rosso,"['Mystery', 'Crime', 'Horror']","['DE', 'IT']",,1972
+74458,Mere Brother Ki Dulhan,"['Drama', 'Comedy', 'Romance']",['IN'],,2011
+5064,Carry On Doctor,['Comedy'],['GB'],The Carry On Collection,1967
+54503,Shuang ma lian huan,"['Action', 'Foreign']","['HK', 'TW']",,1979
+53121,Barking Water,['Drama'],['US'],,2009
+36529,Metamorphosis,"['Horror', 'Science Fiction']","['US', 'IT']",,1990
+45431,Devil in the Flesh,"['Horror', 'Thriller']",['US'],,1998
+97938,Heart of the Country,"['Family', 'Romance', 'Drama']",['US'],,2013
+86332,The Redeemer: Son of Satan!,['Horror'],[],,1978
+31410,Vesničko má středisková,['Comedy'],['CZ'],,1985
+81229,Haker,['Comedy'],[],,2002
+93840,À l'aveugle,"['Thriller', 'Action']",['FR'],,2012
+2004,Kebab Connection,"['Action', 'Comedy', 'Romance']",['DE'],,2004
+2333,Buddenbrooks,['Drama'],['DE'],,2008
+2232,Die Legende von Paul und Paula,"['Drama', 'Romance']",['XG'],,1973
+457,Sissi,"['Comedy', 'Drama', 'Romance']",['AT'],Sissi Collection,1955
+45722,No mires para abajo,"['Drama', 'Romance']","['AR', 'FR']",,2008
+55765,거룩한 계보,"['Action', 'Adventure', 'Crime', 'Drama', 'Foreign']",['KR'],,2006
+2078,The Pawnshop,['Comedy'],['US'],,1916
+3578,Der Tunnel,['Science Fiction'],"['DE', 'FR']",,1933
+798,Pünktchen und Anton,['Drama'],['DE'],,1953
+2734,David,"['Drama', 'History']","['DE', 'IT', 'US']",The Bible Collection,1997
+3565,Underground,['Drama'],['GB'],,1928
+27721,Barda,['Drama'],['TR'],,2007
+39446,At Risk,"['TV Movie', 'Crime', 'Drama', 'Mystery']","['US', 'CA']",,2010
+4979,Montag kommen die Fenster,['Drama'],['DE'],,2006
+104374,Onna no mizûmi,['Drama'],['JP'],,1966
+2890,"André Hazes, Zij Gelooft in Mij",['Documentary'],"['ES', 'NL']",,2000
+30810,Olga's House of Shame,"['Crime', 'Drama']",['US'],,1964
+799,Pünktchen und Anton,['Family'],['DE'],,1999
+2989,Roar,"['Adventure', 'Thriller']",['US'],,1981
+58559,Confession of a Child of the Century,['Drama'],"['FR', 'DE', 'GB']",,2012
+63876,La ronde,"['Drama', 'Comedy', 'History', 'Romance']","['IT', 'FR']",,1964
+38061,Anybody's Son Will Do,[],[],,nan
+3698,"Amico, stammi lontano almeno un palmo",['Western'],"['FR', 'IT']",,1972
+63859,Pufnstuf,"['Comedy', 'Family', 'Fantasy', 'Music']",['US'],,1970
+2324,Local Color,['Drama'],['US'],,2006
+67255,Gyakufunsha kazoku,"['Drama', 'Comedy']",['JP'],,1984
+3479,Les innocents aux mains sales,"['Thriller', 'Crime']","['FR', 'DE', 'IT']",,1975
+26776,The Halliday Brand,['Western'],['US'],,1957
+932,Die Mörder sind unter uns,['Drama'],['DE'],,1946
+3159,Il castello delle donne maledette,['Horror'],['IT'],,1974
+1608,When Saturday Comes,['Drama'],['GB'],,1996
+4369,Juste une question d'amour,"['Drama', 'Romance']",['FR'],,2000
+2459,Un éléphant ça trompe énormément,['Comedy'],['FR'],Un éléphant ça trompe énormément,1976
+48780,Boat,['Foreign'],['US'],,2007
+2132,Totally Blonde,['Comedy'],['US'],,2001
+68954,Longitude,"['TV Movie', 'Drama', 'History']","['GB', 'US']",,2000
+3210,The Projected Man,"['Horror', 'Science Fiction']",['GB'],,1966
+2791,The Chronicles of Riddick: Dark Fury,"['Action', 'Animation', 'Science Fiction', 'Thriller']",['US'],The Chronicles of Riddick Collection,2004
+8366,Der Schuh des Manitu,"['Comedy', 'Western']",['DE'],,2001
+3178,Beat,['Drama'],['US'],,2000
+3104,Frankenstein Created Woman,"['Horror', 'Science Fiction']",['GB'],Frankenstein (Hammer Series),1967
